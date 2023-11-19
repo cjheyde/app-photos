@@ -29,3 +29,8 @@
   font-weight: 300;
   text-align: center;
 }
+
+.nav {
+  background-color: var(--pink-light);
+  width: 100%;
+}
